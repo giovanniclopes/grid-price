@@ -4,7 +4,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## :camera: Screnshoot
 
-[](screenshot.png)
+<img src="screenshot.png" alt="Project Screenshot" />
 
 ## :wave: Links
 
