@@ -16,6 +16,10 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Perguntas:
+
+- Se puder, avalie esse projeto...E me diga como posso melhorar.
+- Desde já agradeço :smile:
 # Bem-vinda(o) :smile:
 
 ## Prazer, sou Giovanni!
