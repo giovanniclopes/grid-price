@@ -8,7 +8,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## :wave: Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://giovanniclopes.github.io/grid-price/](https://giovanniclopes.github.io/grid-price/)
 
 ## :writing_hand: Built with:
 
